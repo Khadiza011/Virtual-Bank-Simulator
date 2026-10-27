@@ -4,19 +4,6 @@ A beginner-friendly **Java OOP + Java Swing** desktop application that simulates
 
 > **Important:** This is an educational demo only. It is not connected to a real bank and must not be used to store real financial information.
 
-## Table of Contents
-
-- [Features](#features)
-- [Project Files and Folders](#project-files-and-folders)
-- [How the Application Works](#how-the-application-works)
-- [Demo Login](#demo-login)
-- [Requirements](#requirements)
-- [Run the Project](#run-the-project)
-- [Where Transaction Data Is Saved](#where-transaction-data-is-saved)
-- [Reset the Demo Data](#reset-the-demo-data)
-- [Troubleshooting](#troubleshooting)
-- [Learning OOP from This Project](#learning-oop-from-this-project)
-
 ## Features
 
 - Login screen
